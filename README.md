@@ -7,5 +7,5 @@ The software is designed for customers, agents, adjustors, and managers, with di
 CREDITS 
 THIS RESPOSITORY IS AN ORGANIZED VERSION OF A PRIVATE RESPOSITORY WITH A RELEASED FILE. 
 THE NAME IS "SWE-Phase-4" with contributors (Github profile, Name): 
-WebJD jabariW, 
-Voltiare001 Edder Uriostegui
+WebJD, jabariW; 
+Voltiare001, Edder Uriostegui;
